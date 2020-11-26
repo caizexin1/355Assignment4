@@ -4,4 +4,4 @@
 # This is a visualizer for Gomoku.
 # More information about Gomoku: https://en.wikipedia.org/wiki/Gomoku
 # Demo video: https://drive.google.com/file/d/13avk9CF5VB4dL2HKhAinSpIvkm2chhiJ/view?usp=sharing
-# To play this game, run gomoku.py
+# To play this game, run gomoku.py, please make sure you install the package 'pygame'
